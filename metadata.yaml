@@ -1,10 +1,16 @@
 _repo: Genom-Canada-Reseskildringar-fran-1904_48307
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48307-h/images/cover.jpg
 creator:
   author:
     agent_name: Waldenström, Paul
     gutenberg_agent_id: '44729'
     url: http://www.gutenberg.org/2009/agents/44729
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48307#Genom-Canada-Reseskildringar-fran-1904
 gutenberg_issued: '2015-02-19'
 gutenberg_type: Text
 identifiers:
